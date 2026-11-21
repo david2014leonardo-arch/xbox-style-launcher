@@ -1,0 +1,23 @@
+XBOX STYLE HOME — projeto Android de demonstração
+
+O que é:
+- Um launcher Android independente com visual escuro e detalhes verdes inspirado em dashboards de console.
+- Inclui abas Início, Meus Jogos, Loja, Social e Configurações.
+- Não é software oficial da Microsoft e não se conecta aos serviços Xbox.
+- Os cartões e áreas de loja/social são demonstrativos; não instalam jogos nem oferecem serviços online.
+
+Como compilar:
+1. Instale Android Studio ou Android SDK + JDK 17.
+2. Abra esta pasta como projeto existente no Android Studio.
+3. Aguarde a sincronização do Gradle.
+4. Selecione Build > Build Bundle(s) / APK(s) > Build APK(s).
+5. O APK de debug ficará em app/build/outputs/apk/debug/app-debug.apk.
+
+Como ativar:
+- Instale o APK.
+- Pressione o botão Home do Android e escolha "Xbox Style Home".
+- Para voltar, escolha o launcher anterior nas configurações de apps padrão.
+
+Requisitos:
+- Android 6.0 ou superior.
+- A primeira compilação precisa de internet para baixar o plugin Android Gradle e dependências.
