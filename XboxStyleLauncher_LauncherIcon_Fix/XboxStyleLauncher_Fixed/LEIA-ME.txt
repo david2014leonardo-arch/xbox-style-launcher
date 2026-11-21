@@ -1,0 +1,7 @@
+PROJETO XBOX STYLE LAUNCHER
+
+Este é um projeto Android demonstrativo com interface inspirada em consoles Xbox.
+Para gerar o APK, envie TODOS os arquivos e pastas deste ZIP ao repositório GitHub,
+na raiz (incluindo a pasta app e a pasta oculta .github).
+Depois abra Actions > Build Android APK > Run workflow.
+O APK será publicado em Artifacts quando a execução terminar com sucesso.
